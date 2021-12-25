@@ -1,0 +1,2 @@
+(this["webpackJsonpfireck-cms"]=this["webpackJsonpfireck-cms"]||[]).push([[17],{1035:function(c,s,a){"use strict";a.r(s);a(0);var t=a(921),r=a(2);s.default=function(c){var s=c.match,a=s.params.id,e=s.params.docId;return Object(r.jsx)(t.a,{collectionId:a,docId:e})}}}]);
+//# sourceMappingURL=17.235399bb.chunk.js.map
